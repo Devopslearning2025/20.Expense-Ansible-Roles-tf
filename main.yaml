@@ -1,5 +1,5 @@
 - name: "installing and configuring the {{ component}}"
-  hosts: localhost
+  hosts: all
   connection: local
   vars_files:
   - variable-{{ environment }}.yaml
