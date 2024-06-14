@@ -1,0 +1,3 @@
+login_db_user: root
+Login_db_password: ExpenseApp1
+Login_db_host: db-prod.devopslearning2025.online
